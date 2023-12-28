@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>ID Card</title>
+    </head>
+    <body>
+        <table class="center" >
+           <tr><td align="center"><h2>     QIS COLLEGE OF     </h2></td>
+           <tr><td align="center"><h2>ENGINEERING & TECHNOLOGY</h2></td>
+           <tr><td align="center"><p>     Ongole-522 272      </p></td>
+           </tr>
+        </table>
+       
+        <table  width="30%"  >
+            <tr colspan="4"><td align="right"><img src="C:\Users\LAB\Desktop\qis.jpg" style="width:10%; height:20%;"  ></td></tr>
+            </table>
+            <table   width="30%" height="20%" class="center" >
+                <tr ><td width="30%"><img src="C:\Users\LAB\Downloads\qrcode.png" width=100% height="30%"></td>
+                <th  style=" writing-mode: vertical-rl;" >21491A05W8</th></td>
+                <td width="35%"><img src="C:\Users\LAB\Downloads\ram.jpg" width="100%" height="40%"></td>
+                <td width="15%""><h2  style=" writing-mode: vertical-rl;">2021-2025</h2></td>
+            </tr>      
+        </table>
+        <table class="center"  width="30%">
+            <tr ><th class="center">SHAIK IMRAN</th></tr>
+            
+            <tr ><td>B.Tech</td>
+                <td font-family="Arial">prince</td>
+            </tr>
+            <tr align="left">
+                <td>CSE</td>
+                <td>PRINCIPAL</td>
+            </tr>
+            <tr><th>Border</th></tr>
+        </table>
+    </body>
+ </html>
